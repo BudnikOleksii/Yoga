@@ -193,5 +193,6 @@ window.addEventListener('DOMContentLoaded', function() {
             input[i].value = '';
         }
     });
+    // form
 
 });
