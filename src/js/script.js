@@ -1,5 +1,8 @@
 'use strict';
 
+require('nodelist-foreach-polyfill');
+require('formdata-polyfill');
+
 window.addEventListener('DOMContentLoaded', function() {
     const calc = require('./modules/calc'),
           form = require('./modules/form'),
