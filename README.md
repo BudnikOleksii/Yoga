@@ -6,9 +6,11 @@ In this project I had expirience to work with simple moduls:
 - timer.
 - modals.
 - forms.
-- slider and calc.
+- slider and calc.\
+\
 Also practiced with:
 1. Git.
 2. Local server.
-3. Webpack.
+3. Webpack.\
+\
 And added first README file:)
